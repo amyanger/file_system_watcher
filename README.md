@@ -25,7 +25,7 @@ Ensure you have [Rust](https://www.rust-lang.org/tools/install) and Cargo instal
 
 1. **Clone the Repository** 📥
    ```sh
-   git clone https://github.com/arjun-myanger/file_system_watcher.git
+   git clone https://github.com/amyanger/file_system_watcher.git
    ```
 2. **Navigate to the Project Directory** 📁
    ```sh
@@ -64,7 +64,7 @@ cargo run /path/to/your/directory_or_file
 
 ## 👨‍💻 Author
 
-Developed by [Arjun Myanger](https://github.com/arjun-myanger). 💡
+Developed by [amyanger](https://github.com/amyanger). 💡
 
 📬 Feel free to reach out for any issues or feature requests!
 
